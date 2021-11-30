@@ -1,5 +1,6 @@
 # BlisterHotWheels
-Graphic work done with Corel Draw in order to manufacture a blister. <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas2331&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+Graphic work done with Corel Draw in order to manufacture a blister.
+<img align="center" alt="Lucas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
 
 ![alt text](https://github.com/lucas2331/BlisterHotWheels/blob/lucas2331/README.md/README.md/blisterHotWheels.png) 
 
